@@ -1,1 +1,1 @@
-# wild-owasis-app
+# The Wild OASIS app
